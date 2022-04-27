@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @apeterson2014
+- 
+- 👀 I’m interested in ... Basketball Analytics
+- 
+- 🌱 I’m currently learning ... SQL and Python
+- 
+- 📫 How to reach me ... apeterson2014@gmail.com
