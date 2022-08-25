@@ -2,6 +2,8 @@
 - 
 - 👀 I’m interested in ... Basketball Analytics
 - 
-- 🌱 I’m currently learning ... SQL and Python
+- I'm proficient in ... SQL and Python
+-
+- 🌱 I’m currently learning ... R, JavaScript, and D3
 - 
 - 📫 How to reach me ... apeterson2014@gmail.com
